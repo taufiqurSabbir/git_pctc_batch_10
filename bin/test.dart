@@ -6,4 +6,7 @@ main(){
 
 
   print('git learning');
+  print('git learning');
+  print('git learning');
+  print('git learning');
 }
